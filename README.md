@@ -20,6 +20,8 @@ I pass date/time in this format: 2023-02-03T21:37:42Z
 
 ## Install & run
 
+please create .env file using .env.example
+
 please run
 ```bash
 npm i
