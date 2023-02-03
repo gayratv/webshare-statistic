@@ -4,7 +4,7 @@ https://proxy.webshare.io/docs/api/#aggregate-stats
 
 I work alone at this time (develop my app)
 
-I expect to see 4rb transferred data after one fetch - but I don't recieved expected result
+I expect to see 4kb transferred data after one fetch - but I don't recieved expected result
 
 ## Problem:
 
